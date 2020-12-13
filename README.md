@@ -1,2 +1,2 @@
 # Qubit relaxation
-Some code on Python, which gives visualization of the relaxation of qubit in Jaynes–Cummings model, and then relaxation of qubit in the imperfect resonator using Lindblad equation for open system.
+Some code on Python, which gives a visualization of the relaxation of a qubit in the Jaynes–Cummings model, and then the relaxation of a qubit in the imperfect resonator using the Lindblad equation.
